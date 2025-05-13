@@ -89,5 +89,5 @@ SmartLabel - 扩展了 Label 控件，为其提供了更多的功能
 [项目地址](https://github.com/webabcd/NpoiSample)  
 
 16. CHMBuilder.zip  
-通过 c# 开发的 windows 客户端，可以将选中的 html 目录编译为一个 chm 文件
+通过 c# 开发的 windows 客户端，可以将选中的 html 目录编译为一个 chm 文件  
 [项目地址](https://github.com/webabcd/CHMBuilder)  

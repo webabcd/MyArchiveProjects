@@ -78,3 +78,16 @@ SmartLabel - 扩展了 Label 控件，为其提供了更多的功能
 13. Pattern.rar  
 包含设计模式相关的示例代码和说明。  
 [相关博客](https://www.cnblogs.com/webabcd/archive/2008/04/02/1134658.html)  
+  
+14. iPhoneDemo.zip, iPadDemo.zip  
+包含 oc 开发 ios 的示例代码和说明。  
+[项目地址1](https://github.com/webabcd/iPhoneDemo)  
+[项目地址2](https://github.com/webabcd/iPadDemo)  
+  
+15. NpoiSample.zip  
+包含 c# 通过 NPOI 或 EPPlus 处理 excel 的示例代码和说明。  
+[项目地址](https://github.com/webabcd/NpoiSample)  
+
+16. CHMBuilder.zip  
+通过 c# 开发的 windows 客户端，可以将选中的 html 目录编译为一个 chm 文件
+[项目地址](https://github.com/webabcd/CHMBuilder)  
